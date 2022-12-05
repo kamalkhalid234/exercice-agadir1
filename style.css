@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+
+.a1{
+    
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 255, 81, 0.4),rgba(0, 255, 81, 0.4)),url(11.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.logo{
+
+    width: 70px;
+    margin: 10px;
+    margin-top: 0;
+    cursor: pointer;
+    color: #fff;
+   
+    
+   
+}
+
+.kamal{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 50px;
+    letter-spacing: 50px;
+}
+.kamal:hover{
+    color: rgb(255, 0, 0);
+}
+.kamal2{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 20px;
+    letter-spacing: 15px;
+}
+.kamal2:hover{
+    color: rgb(255, 0, 0);
+}
+ button{
+   width: 200px;
+   padding: 15px 0;
+   text-align: center;
+   margin: 20px 10px;
+   margin-top: 60px;
+   border-radius: 25px;
+   font-weight: bold;
+   border: 2px solid #fff;
+   background:rgb(255, 255, 255);
+   color: rgb(27, 31, 255);
+   cursor: pointer;
+   position: relative;
+   overflow: hidden;
+
+  
+
+}
+button:hover{
+   color: #f50a0a;
+}
+
+
+.ka2{
+    background-image: url(000.png.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+sub{
+    font-size: 25px;
+    color:#ff8000;
+}
+
+.a2{
+    margin: 20px;
+    font-size: 50px;
+    color: #fff;
+    margin: 10px;
+
+}
+
+.p1{
+    margin-left: 20px;
+    margin-top: 50px;
+    font-size: 20px;
+    color: #ff8000;
+    border: 2px solid black;
+    width: 650px;
+}
+
+.forn{
+    width: 250px;
+    height: 380px;
+    background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
+    position: absolute;
+    top: 100px;
+    left: 870px;
+    border-radius: 10px;
+    padding: 25px;
+
+    
+}
+
+
+.forn h2{
+    width: 220px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #f50a0a;
+    font-size: 22px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+}
+
+.forn input{
+    width: 240px;
+    height: 35px;
+    background: transparent;
+    border-bottom: 1px solid #f4f4f4;
+    border-top: none;
+    border-radius: none;
+    border-left: none;
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    font-family: sans-serif;
+}
+
+.form input:focus{
+    outline: none;
+
+}
+
+
+.btnn{
+    width: 240px;
+    height: 40px;
+    background: #04ff00;
+    border: none;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #fff;
+    transition: 0.4s ease;
+
+}
+
+.btnn:hover{
+    background: #fff;
+    color: #ff0000;
+}
+
+.btnn a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+
+
